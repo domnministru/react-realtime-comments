@@ -10,6 +10,8 @@
 
 # production
 /build
+.idea
+ably.js
 
 # misc
 .DS_Store
